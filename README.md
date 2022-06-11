@@ -1,0 +1,2 @@
+# FTX-Statistics
+FTX Statistics
